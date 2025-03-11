@@ -5,6 +5,6 @@ package mouni;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello manjith!");
+        System.out.println("hello how are you!");
     }
 }
